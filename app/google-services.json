@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542436860010",
+    "firebase_url": "https://mnemonica-15b7e.firebaseio.com",
+    "project_id": "mnemonica-15b7e",
+    "storage_bucket": "mnemonica-15b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542436860010:android:1d8f5b40530ef092",
+        "android_client_info": {
+          "package_name": "com.example.handeozyazgan.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542436860010-os6j1bbbrqq8ju25qrdf1d97h3hc55i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handeozyazgan.myapp",
+            "certificate_hash": "4906B798B702D0D5F49B5ECABBE1F5553F07BA55"
+          }
+        },
+        {
+          "client_id": "542436860010-46aha0bsrlngh1mfk651nton8nq70lgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtFRV0oE0nLJMsZlhR1qRyIchamaMmgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542436860010-46aha0bsrlngh1mfk651nton8nq70lgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
